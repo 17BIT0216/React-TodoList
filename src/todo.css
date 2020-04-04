@@ -1,0 +1,13 @@
+body{
+    padding: 50px;
+    background-color: rgb(255, 178, 127);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    align-self: center;
+}
+#container
+{
+    display:flex;
+    justify-content: flex;
+    align-self: center;
+    font-weight: 200;
+}
