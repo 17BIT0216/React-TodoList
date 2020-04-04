@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+The Node Modules are not included and if you want to run you first have to download the node package manager.
 ## Available Scripts
 
 In the project directory, you can run:
